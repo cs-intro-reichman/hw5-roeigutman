@@ -55,7 +55,7 @@ public class Wordle {
 
                 resultRow[i] = 'Y'; 
             
-            } else  { resultRow[i] = '-';
+            } else  { resultRow[i] = '_';
              
         }                   
 
